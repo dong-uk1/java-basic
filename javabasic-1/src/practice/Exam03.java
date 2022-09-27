@@ -16,6 +16,7 @@ public class Exam03 {
 		
 		
 		String total = name + "님은" + tel + "에 " + num +"입니다.";
+		// 한 글자 이상은 무조건 이중따옴표
 		
 	
 		

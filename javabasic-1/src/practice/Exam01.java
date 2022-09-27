@@ -17,6 +17,7 @@ public class Exam01 {
 		
 		JOptionPane.showMessageDialog(null, "사각형의 면적은 :" + quad);
 
+
 	}
 
 }
